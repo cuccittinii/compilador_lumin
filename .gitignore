@@ -1,0 +1,21 @@
+# Arquivos compilados Java
+*.class
+
+# Arquivos gerados pelo ANTLR
+*.tokens
+*.interp
+
+# Arquivo gerado pelo compilador
+Saida.java
+Saida.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+*~
+\end{code}

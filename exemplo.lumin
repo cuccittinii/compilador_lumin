@@ -1,0 +1,8 @@
+veritas maior; 
+maior = verum; 
+ 
+se (maior == verum) { 
+    eco("Maior de idade"); 
+} senao { 
+    eco("Menor de idade"); 
+}
