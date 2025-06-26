@@ -92,10 +92,10 @@ Saída esperada ao executar o código Java gerado:
 
 O projeto ignora:
 
-Arquivos compilados do Java.class
-Arquivos temporários do ANTLR (, .tokens.interp)
-Arquivo de saída gerado Saida.java
-Pastas de configuração de IDEs (, .vscode/.idea/)
+1.Arquivos compilados do Java.class
+1.Arquivos temporários do ANTLR (, .tokens.interp)
+1.Arquivo de saída gerado Saida.java
+1.Pastas de configuração de IDEs (, .vscode/.idea/)
 
 🤝 Contribuições
 
